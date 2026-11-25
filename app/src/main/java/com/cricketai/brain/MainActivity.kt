@@ -1,5 +1,11 @@
 package com.cricketai.brain
 
-import android.os.Bundle import androidx.appcompat.app.AppCompatActivity
+import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 
-class MainActivity : AppCompatActivity() { override fun onCreate(savedInstanceState: Bundle?) { super.onCreate(savedInstanceState) finish() } }
+class MainActivity : AppCompatActivity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        finish()
+    }
+}
