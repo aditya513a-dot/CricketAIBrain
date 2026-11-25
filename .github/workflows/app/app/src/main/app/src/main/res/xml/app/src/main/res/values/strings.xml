@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CricketAI Brain</string>
+    <string name="accessibility_service_description">CricketAI Brain uses accessibility to inject game gestures (batting shots, bowling selections) and to listen for the Volume Down pause key. Screen content is never read through accessibility — vision runs on MediaProjection.</string>
+    <string name="accessibility_service_summary">Game automation: gestures + Volume Down pause</string>
+</resources>
